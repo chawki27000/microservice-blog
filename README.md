@@ -1,5 +1,5 @@
 # Microservices Blog
-An over compilcated blog to show case some microservices consepts 😅
+An over compilcated blog to show case some microservices concepts 😅
 
 ## Technologies used
 - Node.js
